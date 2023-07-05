@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LuaProtobuf.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\TH\Desktop\Map\Intermediate\Build\Win64\MapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.h.obj"
+"C:\Users\TH\Desktop\Map\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\UE4Editor\Development\LuaProtobuf\LuaProtobufModule.cpp.obj"
+"C:\Users\TH\Desktop\Map\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\UE4Editor\Development\LuaProtobuf\pb.cpp.obj"
+"C:\Users\TH\Desktop\Map\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\UE4Editor\Development\LuaProtobuf\Default.rc2.res"
+/OUT:"C:\Users\TH\Desktop\Map\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\UE4Editor\Development\LuaProtobuf\UE4Editor-LuaProtobuf.lib"
